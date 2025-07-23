@@ -118,8 +118,7 @@ This project is open-source under the MIT License.
 ## 📬 Contact
 
 For questions or contributions, reach out to:  
-📧 your.email@example.com  
-🌐 https://github.com/yourusername
+📧 malk.jarrah21@gmail.com  
 
 ---
 
